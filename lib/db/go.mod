@@ -1,4 +1,4 @@
-module github.com/shinesyang/go/lib
+module github.com/shinesyang/go/lib/db
 
 go 1.18
 
